@@ -1,0 +1,2 @@
+# SahiConv2d
+SAHI主要是为了优化目标检测网络中的注意力机制而设计的，SAHI是SahiConv2d的缩写，全称为Saliency Attentive Histological Image。
